@@ -6,11 +6,11 @@ Find below the table of contents, that lists a number of different methods for m
 
 ## Table of Contents
 
-I. Exploratory Data Analysis
-II. Rank Based Recommendations
-III. User-User Based Collaborative Filtering>
-IV. Content Based Recommendations
-V. Matrix Factorization>
-VI. Extras & Concluding
+-  Exploratory Data Analysis
+-  Rank Based Recommendations
+-  User-User Based Collaborative Filtering>
+-  Content Based Recommendations
+-  Matrix Factorization>
+-  Extras & Concluding
 
 A Section at the end of the Notebook highlights conclusions and the way forward.
